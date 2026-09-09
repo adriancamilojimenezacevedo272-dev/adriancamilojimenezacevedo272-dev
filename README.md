@@ -1,31 +1,31 @@
 <div align="center">
 
   <!-- ENCABEZADO -->
-  <h1>¡Hola! 👋 Soy [Adrian Camilo]</h1>
-  <h3>Desarrollador / Analista en Formación | Apasionado por la tecnología y los datos</h3>
+<h1 align="center"><b>Hi , I'm Adrian Jimenez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<p align="center">
 
-  <p><i>"Convertimos datos en soluciones e ideas en código."</i></p>
 
-  <!-- BADGES DE CONTACTO / REDES -->
-  <p>
-    <a href="adriancamilojimenezacevedo272@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="www.linkedin.com/in/adrian-camilo-jimenez-acevedo-a1b7093b8" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-  </p>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-</div>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
----
+<br><br>
 
 ### 🚀 Sobre mí
 
-- 🔭 **Actualmente estoy:** Aprendiendo y fortaleciendo mis habilidades en desarrollo de software y análisis de datos.
-- 📚 **En proceso de formación:** Profundizando en lógica de programación, bases de datos y herramientas de inteligencia de negocios.
-- 💡 **Intereses:** Resolver problemas prácticos a través de código, automatización y análisis.
-- 🎯 **Objetivo:** Participar en proyectos reales que me permitan seguir creciendo profesionalmente y aportar valor.
+- 🔭 ** Actualmente estoy: Aprendiendo y fortaleciendo mis habilidades en desarrollo de software y análisis de datos.
+- 📚 ** En proceso de formación: Profundizando en lógica de programación, bases de datos y herramientas de inteligencia de negocios.
+- 💡 ** Intereses: Resolver problemas prácticos a través de código, automatización y análisis.
+- 🎯 ** Objetivo: Participar en proyectos reales que me permitan seguir creciendo profesionalmente.
+
+
+  
+<br>
+
+---
+
+
 
 ---
 
