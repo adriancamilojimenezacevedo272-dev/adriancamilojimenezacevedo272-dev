@@ -14,8 +14,8 @@
 
 ### 🚀 Sobre mí
 
-- 🔭 ** Actualmente estoy: Aprendiendo y fortaleciendo mis habilidades en desarrollo de software y análisis de datos.
-- 📚 ** En proceso de formación: Profundizando en lógica de programación, bases de datos y herramientas de inteligencia de negocios.
+- 🔭 ** Actualmente estoy: Aprendiendo y fortaleciendo mis habilidades en análisis de datos.
+- 📚 ** En proceso de formación: Profundizando en lógica de programación, bases de datos y herramientas de manipulación de datos.
 - 💡 ** Intereses: Resolver problemas prácticos a través de código, automatización y análisis.
 - 🎯 ** Objetivo: Participar en proyectos reales que me permitan seguir creciendo profesionalmente.
 
