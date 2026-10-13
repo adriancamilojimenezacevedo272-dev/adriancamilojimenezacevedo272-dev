@@ -44,8 +44,7 @@
   <!-- Herramientas y BI -->
   <h4>Análisis y Herramientas</h4>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+ 
 
 </div>
 
@@ -62,17 +61,3 @@
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adriancamilojimenezacevedo272-dev
-&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriancamilojimenezacevedo272-dev
- &layout=compact&theme=radial"/>
-</div>
-
----
-
-<div align="center">
-  <p>⚡ <i>"Nunca dejes de aprender, porque la tecnología nunca deja de enseñar."</i></p>
-</div>
