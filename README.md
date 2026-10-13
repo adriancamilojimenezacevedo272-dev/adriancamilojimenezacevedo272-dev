@@ -12,7 +12,6 @@
 
 <br><br>
 
-### 🚀 About Me
 
 - 🔭 **Currently focusing on:** Strengthening my core data analysis and technical skills.
 - 📚 **Continuous learning:** Deepening my knowledge in programming logic, relational databases, and data manipulation tools.
