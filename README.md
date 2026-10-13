@@ -60,7 +60,7 @@
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **[Nombre del Proyecto 1](#)** | Breve descripción de lo que hace el proyecto o qué problema resuelve. | `Python` `SQL` |
+| ** Proyecto de Análisis de Datos: LogiExpress ** | Este repositorio contiene un proyecto integral de análisis de datos desarrollado en MySQL para LogiExpress, una plataforma de comercio electrónico. El objetivo principal fue estructurar una base de datos relacional, diseñar y ejecutar 40 consultas SQL de complejidad progresiva (desde agregaciones básicas hasta funciones de ventana y CTEs), y traducir los datos en conclusiones estratégicas bajo la metodología Dato → Interpretación → Acción. | `SQL` `Power BI`|
 | **[Nombre del Proyecto 2](#)** | Tablero interactivo o análisis desarrollado. | `Power BI` |
 
 ---
