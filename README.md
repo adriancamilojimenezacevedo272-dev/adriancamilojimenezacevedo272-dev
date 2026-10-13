@@ -12,12 +12,12 @@
 
 <br><br>
 
-### 🚀 Sobre mí
+### 🚀 About Me
 
-- 🔭 ** Actualmente estoy: Aprendiendo y fortaleciendo mis habilidades en análisis de datos.
-- 📚 ** En proceso de formación: Profundizando en lógica de programación, bases de datos y herramientas de manipulación de datos.
-- 💡 ** Intereses: Resolver problemas prácticos a través de código, automatización y análisis.
-- 🎯 ** Objetivo: Participar en proyectos reales que me permitan seguir creciendo profesionalmente.
+- 🔭 **Currently focusing on:** Strengthening my core data analysis and technical skills.
+- 📚 **Continuous learning:** Deepening my knowledge in programming logic, relational databases, and data manipulation tools.
+- 💡 **Interests:** Solving practical problems through code, data automation, and actionable insights.
+- 🎯 **Goal:** Contributing to real-world data projects where I can gain hands-on experience and grow as a professional.
 
 
   
@@ -29,7 +29,7 @@
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+###  🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -42,7 +42,7 @@
   <br><br>
 
   <!-- Herramientas y BI -->
-  <h4>Análisis y Herramientas</h4>
+  <h4>### 🛠️ Technologies & Tools </h4>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
@@ -60,8 +60,8 @@
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| ** Proyecto de Análisis de Datos: LogiExpress ** | Este repositorio contiene un proyecto integral de análisis de datos desarrollado en MySQL para LogiExpress, una plataforma de comercio electrónico. El objetivo principal fue estructurar una base de datos relacional, diseñar y ejecutar 40 consultas SQL de complejidad progresiva (desde agregaciones básicas hasta funciones de ventana y CTEs), y traducir los datos en conclusiones estratégicas bajo la metodología Dato → Interpretación → Acción. | `SQL` `Power BI`|
-| **[Nombre del Proyecto 2](#)** | Tablero interactivo o análisis desarrollado. | `Power BI` |
+| ** Proyecto de Análisis de Datos: LogiExpress ** | Este repositorio contiene un proyecto integral de análisis de datos desarrollado en MySQL para LogiExpress, una plataforma de comercio electrónico. El objetivo principal fue estructurar una base de datos relacional, diseñar y ejecutar 40 consultas SQL de complejidad progresiva (desde agregaciones básicas hasta funciones de ventana y CTEs), y traducir los datos en conclusiones estratégicas bajo la metodología Dato → Interpretación → Acción. | `SQL`   `Power BI`|
+
 
 ---
 
